@@ -3,7 +3,7 @@
 Projeto: Sistema Academico
 
 1. O que e uma classe e quais classes foram criadas neste projeto?
-R:ma classe é um modelo que define atributos e métodos para criar objetos.
+R:Uma classe é um modelo que define atributos e métodos para criar objetos.
 No projeto foram criadas as classes:
 Pessoa
 Aluno
